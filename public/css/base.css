@@ -1,4 +1,11 @@
 body {
-	background-color : "#ecf0f1";
+	background-color : #ecf0f1;
 	font-family : 'Source Sans Pro',sans-serif;
+}
+
+#bCard {
+	max-width : 50%;
+	padding : 20px;
+	background-color : #ffffff;
+	box-shadow : 5px 5px rgba(0,0,0,0.1);
 }
