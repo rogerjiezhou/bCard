@@ -22,3 +22,8 @@ img {
 	width : 50%;
 	max-width : 150px;
 }
+
+a:link
+,a:visited { color : #ECFOF1}
+
+a:hover {color : #2980b9}
