@@ -15,3 +15,10 @@ body {
 	font-style: italic;
 	size : 1.5rem;
 }
+
+img {
+	border-radius: 50%;
+	border : 5px solid #ecf0f1;
+	width : 50%;
+	max-width : 150px;
+}
